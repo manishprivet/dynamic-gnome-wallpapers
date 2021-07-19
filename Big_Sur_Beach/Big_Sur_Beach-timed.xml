@@ -1,0 +1,111 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>00</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-1.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-1.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-2.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-2.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-2.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-3.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-3.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-3.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-4.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-4.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-4.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-5.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-5.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-5.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-6.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-6.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-6.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-7.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-7.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-7.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-8.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-8.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-8.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-9.jpg</to>
+</transition>
+
+<static>
+<duration>2400.0</duration>
+<file>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-9.jpg</file>
+</static>
+
+<transition type="overlay">
+<duration>7200.0</duration>
+<from>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-9.jpg</from>
+<to>/usr/share/backgrounds/gnome/Big_Sur_Beach-timed/Big_Sur_Beach-1.jpg</to>
+</transition>
+</background>
+

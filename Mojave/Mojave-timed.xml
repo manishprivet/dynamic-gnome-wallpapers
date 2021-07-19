@@ -1,0 +1,187 @@
+<background>
+  <starttime>
+    <year>2011</year>
+    <month>11</month>
+    <day>24</day>
+    <hour>4</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-1.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-1.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-2.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-2.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-2.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-3.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-3.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-3.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-4.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-4.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-4.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-5.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-5.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-5.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-6.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-6.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-6.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-7.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-7.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-7.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-8.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-8.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-8.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-9.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-9.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-9.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-10.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-10.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-10.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-11.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-11.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-11.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-12.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-12.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-12.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-13.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-13.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-13.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-14.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-14.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-14.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-15.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-15.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-15.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-16.jpeg</to>
+</transition>
+
+<static>
+<duration>3600.0</duration>
+<file>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-16.jpeg</file>
+</static>
+
+<transition type="overlay">
+<duration>1800.0</duration>
+<from>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-16.jpeg</from>
+<to>/usr/share/backgrounds/gnome/Mojave-timed/Mojave-1.jpeg</to>
+</transition>
+
+</background>
