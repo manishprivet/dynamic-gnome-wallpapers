@@ -13,9 +13,23 @@ https://github.com/b1izzard-34/Dynamic-gnome-wallpapers
 - XML file containing transition information of the wallpaper.
 - XML file that adds the wallpaper entry to the gnome backgrounds menu in the control center.
 
-## How to use install script
-- Only install script need to be downloaded.
-- install script takes names of the theme as an argument.
+## Installation
+
+#### Clone this repo
+
+```bash
+git clone https://github.com/manishprivet/dynamic-gnome-wallpapers.git
+```
+
+#### Go into the folder
+
+```bash
+cd dynamic-gnome-wallpapers
+```
+
+#### Run the script for the wallpaper you like from the gallery below 😁
+
+#### Go to Gnome Settings > Backgrounds and set your wallpaper from there
 
 ## Wallpapers
 
