@@ -35,7 +35,11 @@ cd dynamic-gnome-wallpapers
 
 ### Lakeside
 
-https://user-images.githubusercontent.com/54291836/126887772-3b341d1a-dc8a-4abd-bcff-e9503f2033ba.mp4
+![Lakeside](https://user-images.githubusercontent.com/54291836/126888360-48c90397-49fb-44ed-af52-f793178e1f63.gif)
+
+#### Credits
+
+https://dribbble.com/shots/1816328-Lakeside-Sunrise
 
 #### Installation
 
@@ -50,8 +54,10 @@ sudo ./uninstall.sh Lakeside
 
 ### Exodus
 
-https://user-images.githubusercontent.com/54291836/126887776-ba9b6df4-f3e3-4156-861a-79a01afe5cb8.mp4
+![Exodus](https://user-images.githubusercontent.com/54291836/126888357-3dfde85b-b371-4d41-9695-d569c1424a48.gif)
 
+#### Credits
+https://dynamicwallpaper.club/u/Juanra
 #### Installation
 
 ```bash
@@ -65,8 +71,10 @@ sudo ./uninstall.sh Exodus
 
 ### Minimal Mojave
 
-https://user-images.githubusercontent.com/54291836/126887778-4f886704-fa0b-4e20-a39b-bef556479d56.mp4
+![Minimal-Mojave](https://user-images.githubusercontent.com/54291836/126888359-de35b414-cc69-494b-8065-487de5f22924.gif)
 
+#### Credits
+https://dynamicwallpaper.club/u/octaviotti
 #### Installation
 
 ```bash
@@ -79,7 +87,11 @@ sudo ./uninstall.sh Minimal-Mojave
 ```
 ### Mojave
 
-https://user-images.githubusercontent.com/54291836/126887779-366b5a87-213b-4185-ad8a-8287aadce46c.mp4
+![Mojave](https://user-images.githubusercontent.com/54291836/126888358-ac91b4f6-0685-4fd3-8928-db4eebc75434.gif)
+
+#### Credits
+
+https://www.reddit.com/r/apple/comments/8oz25c/all_16_full_resolution_macos_mojave_dynamic/
 
 #### Installation
 
@@ -94,8 +106,11 @@ sudo ./uninstall.sh Mojave
 
 ### Mojave V2
 
-https://user-images.githubusercontent.com/54291836/126887780-de2bfa4c-2305-43f1-a6f0-725126ea4d3a.mp4
+![MojaveV2](https://user-images.githubusercontent.com/54291836/126888353-e1eec7c1-f5c0-48cf-b4dd-c987e11b9b69.gif)
 
+#### Credits
+
+https://dynamicwallpaper.club/u/WeighingDog
 #### Installation
 
 ```bash
@@ -109,8 +124,11 @@ sudo ./uninstall.sh MojaveV2
 
 ### Big Sur Beach
 
-https://user-images.githubusercontent.com/54291836/126887781-bb76bd63-de8a-4656-b109-d0f55ed7a308.mp4
+![Big_Sur_Beach](https://user-images.githubusercontent.com/54291836/126888350-d954464c-5838-40d6-a585-5c622f1e22c8.gif)
 
+#### Credits
+
+https://dynamicwallpaper.club/u/DavidPicnic
 #### Installation
 
 ```bash
@@ -124,7 +142,12 @@ sudo ./uninstall.sh Big_Sur_Beach
 
 ### Firewatch
 
-https://user-images.githubusercontent.com/54291836/126887782-7c624418-9ffc-4e14-a6f8-9e71a92773de.mp4
+![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
+
+
+#### Credits
+
+https://dynamicwallpaper.club/u/Jagoba
 
 #### Installation
 
@@ -139,8 +162,10 @@ sudo ./uninstall.sh Firewatch
 
 ### Lakeside 2
 
-https://user-images.githubusercontent.com/54291836/126887783-775d0f20-33b6-40db-b26c-94592c3d8a18.mp4
+![Lakeside-2](https://user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif)
 
+#### Credits
+https://dynamicwallpaper.club/u/vitaobr92
 #### Installation
 
 ```bash
@@ -151,12 +176,3 @@ sudo ./install.sh Lakeside-2
 ```bash
 sudo ./uninstall.sh Lakeside-2
 ```
-## Credits
-- Exodus : https://dynamicwallpaper.club/u/Juanra
-- Minimal-Mojave : https://dynamicwallpaper.club/u/octaviotti
-- MojaveV2 : https://dynamicwallpaper.club/u/WeighingDog
-- Mojave: https://www.reddit.com/r/apple/comments/8oz25c/all_16_full_resolution_macos_mojave_dynamic/
-- Lakeside: https://github.com/dbasinge/lakeside-dynamic-wallpaper
-- Big Sur Beach: https://dynamicwallpaper.club/wallpaper/eq8ggec3apr
-- Firewatch: https://dynamicwallpaper.club/wallpaper/hsrdsoah3rp
-- Lakeside 2: https://dynamicwallpaper.club/wallpaper/mddps905i4p
