@@ -13,7 +13,7 @@ rm -f $1.zip
 
 # If old directory exists, delete it
 if [ -d "./$1" ]; then
-    printf '%s\n' "Removing Old Files for ($1)"
+    echo -e "${YELLOW}Removing Old Files for ($1)\n${OFF}"
     rm -rf "./$1"
 fi
 
@@ -24,17 +24,27 @@ sudo mkdir -p /usr/share/backgrounds/gnome
 
 # Download files from the zip repo
 echo -e "${YELLOW}Downloading Files...${OFF}"
-status=$(curl -LJ https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax1fgialsdrt/b/manishprivet/o/$1.zip -o ./$1.zip --write-out %{http_code} --silent)
+echo ""
+status=$(curl -LJ https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax1fgialsdrt/b/manishprivet/o/$1.zip -o ./$1.zip --write-out %{http_code} --progress-bar)
 
 # If file doesn't exist, exit with an error
 if [[ "$status" -ne 200 ]] ; then
+  echo ""
   echo -e "${RED}$1 theme doesn't exist. Make sure you spelled it correctly.${OFF}"
   rm -f $1.zip
   exit 0
 fi
 
 # Unzip the file
-unzip $1.zip -d ./$1
+unzip -q $1.zip -d ./$1
+
+# If old directory exists, delete it
+if [ -d "/usr/share/backgrounds/gnome/$1-timed" ]; then
+    echo ""
+    echo -e "${YELLOW}Removing old $1 wallpaper...${OFF}"
+    ./uninstall.sh $1
+    echo -e "${GREEN}Old files removed${OFF}"
+fi
 
 
 cd $1
