@@ -1,8 +1,5 @@
-# Dynamic-gnome-wallpapers
-A collection of awesome dynamic wallpapers, collected from all over the internet
-
 ### Original Inspiration
-https://github.com/b1izzard-34/Dynamic-gnome-wallpapers
+[b1izzard-34/Dynamic-gnome-wallpapers](https://github.com/b1izzard-34/Dynamic-gnome-wallpapers)
 
 ## Prerequisites
 - Gnome shell installation
@@ -51,7 +48,7 @@ sudo ./install.sh Lakeside
 ```bash
 sudo ./uninstall.sh Lakeside
 ```
-
+---
 ### Exodus
 
 ![Exodus](https://user-images.githubusercontent.com/54291836/126888357-3dfde85b-b371-4d41-9695-d569c1424a48.gif)
@@ -68,7 +65,7 @@ sudo ./install.sh Exodus
 ```bash
 sudo ./uninstall.sh Exodus
 ```
-
+---
 ### Minimal Mojave
 
 ![Minimal-Mojave](https://user-images.githubusercontent.com/54291836/126888359-de35b414-cc69-494b-8065-487de5f22924.gif)
@@ -85,6 +82,7 @@ sudo ./install.sh Minimal-Mojave
 ```bash
 sudo ./uninstall.sh Minimal-Mojave
 ```
+---
 ### Mojave
 
 ![Mojave](https://user-images.githubusercontent.com/54291836/126888358-ac91b4f6-0685-4fd3-8928-db4eebc75434.gif)
@@ -103,7 +101,7 @@ sudo ./install.sh Mojave
 ```bash
 sudo ./uninstall.sh Mojave
 ```
-
+---
 ### Mojave V2
 
 ![MojaveV2](https://user-images.githubusercontent.com/54291836/126888353-e1eec7c1-f5c0-48cf-b4dd-c987e11b9b69.gif)
@@ -121,7 +119,7 @@ sudo ./install.sh MojaveV2
 ```bash
 sudo ./uninstall.sh MojaveV2
 ```
-
+---
 ### Big Sur Beach
 
 ![Big_Sur_Beach](https://user-images.githubusercontent.com/54291836/126888350-d954464c-5838-40d6-a585-5c622f1e22c8.gif)
@@ -139,7 +137,7 @@ sudo ./install.sh Big_Sur_Beach
 ```bash
 sudo ./uninstall.sh Big_Sur_Beach
 ```
-
+---
 ### Firewatch
 
 ![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
@@ -159,7 +157,7 @@ sudo ./install.sh Firewatch
 ```bash
 sudo ./uninstall.sh Firewatch
 ```
-
+---
 ### Lakeside 2
 
 ![Lakeside-2](https://user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif)
@@ -176,3 +174,8 @@ sudo ./install.sh Lakeside-2
 ```bash
 sudo ./uninstall.sh Lakeside-2
 ```
+
+---
+## Reach me out
+
+<a href="https://manishk.dev" target="blank">Website</a> |  <a href="https://twitter.com/manishprivet" target="blank">Twitter</a> |  <a href="https://linkedin.com/in/manishprivet" target="blank">Linkedin</a> |  <a href="https://stackoverflow.com/users/manishprivet" target="blank">Stackoverflow</a> |  <a href="https://fb.com/manishprivet" target="blank">Facebook</a> |  <a href="https://instagram.com/manishprivet" target="blank">Instagram</a> |  <a href="https://medium.com/@manishprivet" target="blank">Medium</a>
