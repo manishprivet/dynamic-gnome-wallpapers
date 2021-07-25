@@ -1,3 +1,7 @@
+# Dynamic Gnome Wallpapers
+
+A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
+
 ### Original Inspiration
 [b1izzard-34/Dynamic-gnome-wallpapers](https://github.com/b1izzard-34/Dynamic-gnome-wallpapers)
 
