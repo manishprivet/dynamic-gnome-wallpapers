@@ -24,7 +24,7 @@ sudo mkdir -p /usr/share/backgrounds/gnome
 
 # Download files from the zip repo
 echo -e "${YELLOW}Downloading Files...${OFF}"
-status=$(curl -LJ https://github.com/manishprivet/dgw-zips/blob/main/$1.zip?raw=true -o ./$1.zip --write-out %{http_code} --silent)
+status=$(curl -LJ https://objectstorage.ap-hyderabad-1.oraclecloud.com/n/ax1fgialsdrt/b/manishprivet/o/$1.zip -o ./$1.zip --write-out %{http_code} --silent)
 
 # If file doesn't exist, exit with an error
 if [[ "$status" -ne 200 ]] ; then
