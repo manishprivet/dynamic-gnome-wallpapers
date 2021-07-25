@@ -7,7 +7,7 @@ A collection of awesome dynamic wallpapers for Gnome, and easy scripts to instal
 
 ## Prerequisites
 - Gnome shell installation
-- `unzip` command available
+- `unzip` and `curl` commands available
 
 ## Wallpaper format
 ### Every wallpaper folder contains :
