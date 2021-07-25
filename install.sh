@@ -2,6 +2,7 @@
 
 echo "Adding $1 to wallpapers ..."
 cd $1
+sudo mkdir -p /usr/share/backgrounds/gnome
 sudo mkdir /usr/share/backgrounds/gnome/$1-timed
 sudo cp $1*.jp* /usr/share/backgrounds/gnome/$1-timed
 sudo cp $1-timed.xml /usr/share/backgrounds/gnome
