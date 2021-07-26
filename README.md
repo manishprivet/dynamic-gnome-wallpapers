@@ -10,7 +10,7 @@ A collection of awesome dynamic wallpapers for Gnome, and easy scripts to instal
 - `unzip` and `curl` commands available
 
 ## Wallpaper format
-### Every wallpaper folder contains :
+### Every wallpaper zip contains :
 - JPEG/ JPG files of the wallpaper.
 - XML file containing transition information of the wallpaper.
 - XML file that adds the wallpaper entry to the gnome backgrounds menu in the control center.
@@ -46,12 +46,20 @@ https://dribbble.com/shots/1816328-Lakeside-Sunrise
 #### Installation
 
 ```bash
-sudo ./install.sh Lakeside
+# Install for the current user
+./install.sh Lakeside
+
+# Install globally
+sudo ./install.sh Lakeside --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Lakeside
+# Uninstall local installation
+./uninstall.sh Lakeside
+
+# Uninstall global installation
+sudo ./uninstall.sh Lakeside --global
 ```
 ---
 
@@ -66,14 +74,22 @@ https://dynamicwallpaper.club/u/legend
 #### Installation
 
 ```bash
-sudo ./install.sh A_Certain_Magical_Index
+# Install for the current user
+./install.sh A_Certain_Magical_Index
+
+# Install globally
+sudo ./install.sh A_Certain_Magical_Index --global
 ```
 
 > This certain wallpaper has more than 500MB of data. So it might take a while to download.
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh A_Certain_Magical_Index
+# Uninstall local installation
+./uninstall.sh A_Certain_Magical_Index
+
+# Uninstall global installation
+sudo ./uninstall.sh A_Certain_Magical_Index --global
 ```
 ---
 
@@ -86,12 +102,20 @@ https://dynamicwallpaper.club/u/Juanra
 #### Installation
 
 ```bash
-sudo ./install.sh Exodus
+# Install for the current user
+./install.sh Exodus
+
+# Install globally
+sudo ./install.sh Exodus --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Exodus
+# Uninstall local installation
+./uninstall.sh Exodus
+
+# Uninstall global installation
+sudo ./uninstall.sh Exodus --global
 ```
 ---
 
@@ -104,12 +128,20 @@ https://dynamicwallpaper.club/u/octaviotti
 #### Installation
 
 ```bash
-sudo ./install.sh Minimal-Mojave
+# Install for the current user
+./install.sh Minimal-Mojave
+
+# Install globally
+sudo ./install.sh Minimal-Mojave --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Minimal-Mojave
+# Uninstall local installation
+./uninstall.sh Minimal-Mojave
+
+# Uninstall global installation
+sudo ./uninstall.sh Minimal-Mojave --global
 ```
 ---
 
@@ -124,12 +156,20 @@ https://www.reddit.com/r/apple/comments/8oz25c/all_16_full_resolution_macos_moja
 #### Installation
 
 ```bash
-sudo ./install.sh Mojave
+# Install for the current user
+./install.sh Mojave
+
+# Install globally
+sudo ./install.sh Mojave --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Mojave
+# Uninstall local installation
+./uninstall.sh Mojave
+
+# Uninstall global installation
+sudo ./uninstall.sh Mojave --global
 ```
 ---
 
@@ -143,12 +183,20 @@ https://dynamicwallpaper.club/u/WeighingDog
 #### Installation
 
 ```bash
-sudo ./install.sh MojaveV2
+# Install for the current user
+./install.sh MojaveV2
+
+# Install globally
+sudo ./install.sh MojaveV2 --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh MojaveV2
+# Uninstall local installation
+./uninstall.sh MojaveV2
+
+# Uninstall global installation
+sudo ./uninstall.sh MojaveV2 --global
 ```
 ---
 
@@ -162,12 +210,20 @@ https://dynamicwallpaper.club/u/DavidPicnic
 #### Installation
 
 ```bash
-sudo ./install.sh Big_Sur_Beach
+# Install for the current user
+./install.sh Big_Sur_Beach
+
+# Install globally
+sudo ./install.sh Big_Sur_Beach --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Big_Sur_Beach
+# Uninstall local installation
+./uninstall.sh Big_Sur_Beach
+
+# Uninstall global installation
+sudo ./uninstall.sh Big_Sur_Beach --global
 ```
 ---
 
@@ -183,12 +239,20 @@ https://dynamicwallpaper.club/u/Jagoba
 #### Installation
 
 ```bash
-sudo ./install.sh Firewatch
+# Install for the current user
+./install.sh Firewatch
+
+# Install globally
+sudo ./install.sh Firewatch --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Firewatch
+# Uninstall local installation
+./uninstall.sh Firewatch
+
+# Uninstall global installation
+sudo ./uninstall.sh Firewatch --global
 ```
 ---
 
@@ -201,12 +265,20 @@ https://dynamicwallpaper.club/u/vitaobr92
 #### Installation
 
 ```bash
-sudo ./install.sh Lakeside-2
+# Install for the current user
+./install.sh Lakeside-2
+
+# Install globally
+sudo ./install.sh Lakeside-2 --global
 ```
 #### Uninstallation
 
 ```bash
-sudo ./uninstall.sh Lakeside-2
+# Uninstall local installation
+./uninstall.sh Lakeside-2
+
+# Uninstall global installation
+sudo ./uninstall.sh Lakeside-2 --global
 ```
 
 ---
