@@ -283,6 +283,33 @@ sudo ./uninstall.sh Lakeside-2 --global
 
 ---
 
+### Big Sur
+
+![Big Sur](https://user-images.githubusercontent.com/54291836/127216821-83a15fe9-ebf3-4e8a-ae98-49dc9f4b792b.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/jalbans17
+
+#### Installation
+
+```bash
+# Install for the current user
+./install.sh Big_Sur
+
+# Install globally
+sudo ./install.sh Big_Sur --global
+```
+#### Uninstallation
+
+```bash
+# Uninstall local installation
+./uninstall.sh Big_Sur
+
+# Uninstall global installation
+sudo ./uninstall.sh Big_Sur --global
+```
+---
 ## Reach me out
 
 <a href="https://manishk.dev" target="blank">Website</a> |  <a href="https://twitter.com/manishprivet" target="blank">Twitter</a> |  <a href="https://linkedin.com/in/manishprivet" target="blank">Linkedin</a> |  <a href="https://stackoverflow.com/users/manishprivet" target="blank">Stackoverflow</a> |  <a href="https://fb.com/manishprivet" target="blank">Facebook</a> |  <a href="https://instagram.com/manishprivet" target="blank">Instagram</a> |  <a href="https://medium.com/@manishprivet" target="blank">Medium</a>
