@@ -317,7 +317,7 @@ sudo ./uninstall.sh Big_Sur --global
 
 #### Credits
 
-https://dynamicwallpaper.club/u/jalbans17
+https://dynamicwallpaper.club/u/MaxKulakov
 
 #### Installation
 
