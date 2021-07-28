@@ -68,8 +68,10 @@ unzip -q $1.zip -d ./$1
 if [ -d "$LOCATION/backgrounds/gnome/$1-timed" ]; then
   echo ""
   echo -e "${YELLOW}Removing old $1 wallpaper...${OFF}"
-  ./uninstall.sh $1 $2
-  echo -e "${GREEN}Old files removed${OFF}"
+  rm -rf $LOCATION/backgrounds/gnome/$1-timed
+  rm -rf $LOCATION/backgrounds/gnome/$1-timed.xml  
+  rm -rf $LOCATION/gnome-background-properties/$1.xml
+  echo -e "${GREEN}Removed old $1 wallpaper!${OFF}"
 fi
 
 
