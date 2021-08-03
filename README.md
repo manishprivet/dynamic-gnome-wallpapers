@@ -17,19 +17,11 @@ A collection of awesome dynamic wallpapers for Gnome, and easy scripts to instal
 
 ## Installation
 
-#### Clone this repo
+> Replace **THEME_CODE** with the theme code of your choice.
 
 ```bash
-git clone https://github.com/manishprivet/dynamic-gnome-wallpapers.git
+curl -s https://raw.githubusercontent.com/manishprivet/dynamic-gnome-wallpapers/main/install.sh | bash -s THEME_CODE
 ```
-
-#### Go into the folder
-
-```bash
-cd dynamic-gnome-wallpapers
-```
-
-#### Run the script for the wallpaper you like from the gallery below 😁
 
 #### Go to Gnome Settings > Backgrounds and set your wallpaper from there
 
@@ -37,33 +29,19 @@ cd dynamic-gnome-wallpapers
 
 ### Lakeside
 
+#### **Code**: `Lakeside`
+
 ![Lakeside](https://user-images.githubusercontent.com/54291836/126888360-48c90397-49fb-44ed-af52-f793178e1f63.gif)
 
 #### Credits
 
 https://dribbble.com/shots/1816328-Lakeside-Sunrise
 
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh Lakeside
-
-# Install globally
-sudo ./install.sh Lakeside --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Lakeside
-
-# Uninstall global installation
-sudo ./uninstall.sh Lakeside --global
-```
 ---
 
 ### A Certain Magical Index
+
+#### **Code**: `A_Certain_Magical_Index`
 
 ![A Certain Magical Index](https://user-images.githubusercontent.com/54291836/126893468-8ac4590e-ceea-40a2-a938-3e4db0f6ddf9.gif)
 
@@ -71,81 +49,33 @@ sudo ./uninstall.sh Lakeside --global
 
 https://dynamicwallpaper.club/u/legend
 
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh A_Certain_Magical_Index
-
-# Install globally
-sudo ./install.sh A_Certain_Magical_Index --global
-```
-
-> This certain wallpaper has more than 500MB of data. So it might take a while to download.
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh A_Certain_Magical_Index
-
-# Uninstall global installation
-sudo ./uninstall.sh A_Certain_Magical_Index --global
-```
 ---
 
 ### Exodus
+
+#### **Code**: `Exodus`
 
 ![Exodus](https://user-images.githubusercontent.com/54291836/126888357-3dfde85b-b371-4d41-9695-d569c1424a48.gif)
 
 #### Credits
 https://dynamicwallpaper.club/u/Juanra
-#### Installation
 
-```bash
-# Install for the current user
-./install.sh Exodus
-
-# Install globally
-sudo ./install.sh Exodus --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Exodus
-
-# Uninstall global installation
-sudo ./uninstall.sh Exodus --global
-```
 ---
 
 ### Minimal Mojave
+
+#### **Code**: `Minimal-Mojave`
 
 ![Minimal-Mojave](https://user-images.githubusercontent.com/54291836/126888359-de35b414-cc69-494b-8065-487de5f22924.gif)
 
 #### Credits
 https://dynamicwallpaper.club/u/octaviotti
-#### Installation
 
-```bash
-# Install for the current user
-./install.sh Minimal-Mojave
-
-# Install globally
-sudo ./install.sh Minimal-Mojave --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Minimal-Mojave
-
-# Uninstall global installation
-sudo ./uninstall.sh Minimal-Mojave --global
-```
 ---
 
 ### Mojave
+
+#### **Code**: `Mojave`
 
 ![Mojave](https://user-images.githubusercontent.com/54291836/126888358-ac91b4f6-0685-4fd3-8928-db4eebc75434.gif)
 
@@ -153,137 +83,57 @@ sudo ./uninstall.sh Minimal-Mojave --global
 
 https://www.reddit.com/r/apple/comments/8oz25c/all_16_full_resolution_macos_mojave_dynamic/
 
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh Mojave
-
-# Install globally
-sudo ./install.sh Mojave --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Mojave
-
-# Uninstall global installation
-sudo ./uninstall.sh Mojave --global
-```
 ---
 
 ### Mojave V2
+
+#### **Code**: `MojaveV2`
 
 ![MojaveV2](https://user-images.githubusercontent.com/54291836/126888353-e1eec7c1-f5c0-48cf-b4dd-c987e11b9b69.gif)
 
 #### Credits
 
 https://dynamicwallpaper.club/u/WeighingDog
-#### Installation
 
-```bash
-# Install for the current user
-./install.sh MojaveV2
-
-# Install globally
-sudo ./install.sh MojaveV2 --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh MojaveV2
-
-# Uninstall global installation
-sudo ./uninstall.sh MojaveV2 --global
-```
 ---
 
 ### Big Sur Beach
+
+#### **Code**: `Big_Sur_Beach`
 
 ![Big_Sur_Beach](https://user-images.githubusercontent.com/54291836/126888350-d954464c-5838-40d6-a585-5c622f1e22c8.gif)
 
 #### Credits
 
 https://dynamicwallpaper.club/u/DavidPicnic
-#### Installation
 
-```bash
-# Install for the current user
-./install.sh Big_Sur_Beach
-
-# Install globally
-sudo ./install.sh Big_Sur_Beach --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Big_Sur_Beach
-
-# Uninstall global installation
-sudo ./uninstall.sh Big_Sur_Beach --global
-```
 ---
 
 ### Firewatch
+#### **Code**: `Firewatch`
 
 ![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
-
 
 #### Credits
 
 https://dynamicwallpaper.club/u/Jagoba
 
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh Firewatch
-
-# Install globally
-sudo ./install.sh Firewatch --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Firewatch
-
-# Uninstall global installation
-sudo ./uninstall.sh Firewatch --global
-```
 ---
 
 ### Lakeside 2
+
+#### **Code**: `Lakeside-2`
 
 ![Lakeside-2](https://user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif)
 
 #### Credits
 https://dynamicwallpaper.club/u/vitaobr92
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh Lakeside-2
-
-# Install globally
-sudo ./install.sh Lakeside-2 --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Lakeside-2
-
-# Uninstall global installation
-sudo ./uninstall.sh Lakeside-2 --global
-```
 
 ---
 
 ### Big Sur
+
+#### **Code**: `Big_Sur`
 
 ![Big Sur](https://user-images.githubusercontent.com/54291836/127216821-83a15fe9-ebf3-4e8a-ae98-49dc9f4b792b.gif)
 
@@ -291,52 +141,18 @@ sudo ./uninstall.sh Lakeside-2 --global
 
 https://dynamicwallpaper.club/u/jalbans17
 
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh Big_Sur
-
-# Install globally
-sudo ./install.sh Big_Sur --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Big_Sur
-
-# Uninstall global installation
-sudo ./uninstall.sh Big_Sur --global
-```
 ---
 
 ### Fuji
+
+#### **Code**: `Fuji`
 
 ![Fuji](https://user-images.githubusercontent.com/54291836/127258707-7895e748-ddc8-4e06-8767-df7609e834bd.gif)
 
 #### Credits
 
-https://dynamicwallpaper.club/u/MaxKulakov
+https://dynamicwallpaper.club/u/**MaxKulakov**
 
-#### Installation
-
-```bash
-# Install for the current user
-./install.sh Fuji
-
-# Install globally
-sudo ./install.sh Fuji --global
-```
-#### Uninstallation
-
-```bash
-# Uninstall local installation
-./uninstall.sh Fuji
-
-# Uninstall global installation
-sudo ./uninstall.sh Fuji --global
-```
 ---
 ## Reach me out
 
