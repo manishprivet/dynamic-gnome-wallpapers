@@ -20,10 +20,19 @@ A collection of awesome dynamic wallpapers for Gnome, and easy scripts to instal
 > Replace **THEME_CODE** with the theme code of your choice.
 
 ```bash
-curl -s https://raw.githubusercontent.com/manishprivet/dynamic-gnome-wallpapers/main/install.sh | bash -s THEME_CODE
+curl -s https://wallpapers.manishk.dev/install.sh | bash -s THEME_CODE
 ```
 
 #### Go to Gnome Settings > Backgrounds and set your wallpaper from there
+
+### Uninstallation
+If you have installed a Wallpaper and want to uninstall it
+
+> Replace **THEME_CODE** with the code of the theme you want to uninstall
+
+```bash
+curl -s https://wallpapers.manishk.dev/uninstall.sh | bash -s THEME_CODE
+```
 
 ## Wallpapers
 
