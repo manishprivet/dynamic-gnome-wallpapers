@@ -173,7 +173,7 @@ https://dynamicwallpaper.club/u/jalbans17
 
 #### Credits
 
-https://dynamicwallpaper.club/u/**MaxKulakov**
+https://dynamicwallpaper.club/u/MaxKulakov
 
 ---
 ## Reach me out
