@@ -11,7 +11,7 @@ A collection of awesome dynamic wallpapers for Gnome, and easy scripts to instal
 
 ## Wallpaper format
 ### Every wallpaper zip contains :
-- JPEG/ JPG files of the wallpaper.
+- JPEG/JPG files of the wallpaper.
 - XML file containing transition information of the wallpaper.
 - XML file that adds the wallpaper entry to the gnome backgrounds menu in the control center.
 
@@ -32,6 +32,19 @@ If you have installed a Wallpaper and want to uninstall it
 
 ```bash
 curl -s https://wallpapers.manishk.dev/uninstall.sh | bash -s THEME_CODE
+```
+
+### Global Installation (Optional)
+If you want to install a wallpaper for all users on your system, you can run the same command using sudo and by passing the `--global` flag
+
+```bash
+curl -s https://wallpapers.manishk.dev/install.sh | sudo bash -s THEME_CODE --global
+```
+
+To uninstall a globally installed wallpaper
+
+```bash
+curl -s https://wallpapers.manishk.dev/uninstall.sh | sudo bash -s THEME_CODE --global
 ```
 
 ## Wallpapers
