@@ -17,8 +17,6 @@ then
   exit 0
 fi
 
-echo $2
-
 if [[ "$2" == "--global" ]] ; then
   echo -e "${YELLOW}Installing Wallpaper Globally${OFF}"
   echo ""
