@@ -65,6 +65,8 @@ https://dribbble.com/shots/1816328-Lakeside-Sunrise
 
 #### **Code**: `A_Certain_Magical_Index`
 
+> This specific wallpaper is more than 500 MB in download size, so install only if you have that bandwidth available
+
 ![A Certain Magical Index](https://user-images.githubusercontent.com/54291836/126893468-8ac4590e-ceea-40a2-a938-3e4db0f6ddf9.gif)
 
 #### Credits
