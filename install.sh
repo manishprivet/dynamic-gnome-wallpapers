@@ -39,7 +39,7 @@ fi
 # Check up and clean old versions
 echo "Checking and cleaning up old $1 files"
 
-# Removing ZIP File
+# Removing ZIP File if exists
 rm -f $1.zip
 
 # If Old Directory exists, delete it
@@ -57,7 +57,7 @@ echo "Adding $1 to wallpapers ..."
 mkdir -p $LOCATION/backgrounds/gnome
 mkdir -p $LOCATION/gnome-background-properties
 
-# Download files from the zip repository
+# Download zip files from the oracle cloud object storage bucket.
 echo -e "${YELLOW}Downloading Files...${OFF}"
 echo ""
 status=$(curl -LJ https://cdn.manishk.dev/v2%2F$1.zip -o ./$1.zip --write-out %{http_code} --progress-bar)
