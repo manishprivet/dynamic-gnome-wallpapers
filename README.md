@@ -1,11 +1,17 @@
-# Dynamic Gnome Wallpapers
 
-A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them
+<h1 align="center">Dynamic Gnome Wallpapers</h1>
+<h6 align="center">A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them</h6>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54291836/130308064-3b82d8c5-2ccf-4351-ae35-6b197daee3f1.gif">
+</p>
+
+
+---
 
 ### Original Inspiration
 [b1izzard-34/Dynamic-gnome-wallpapers](https://github.com/b1izzard-34/Dynamic-gnome-wallpapers)
 
-## Prerequisites
+## Pre-requisites
 - Gnome shell installation
 - `unzip` and `curl` commands available
 
@@ -46,8 +52,8 @@ To uninstall a globally installed wallpaper
 ```bash
 curl -s https://wallpapers.manishk.dev/uninstall.sh | sudo bash -s THEME_CODE --global
 ```
-
-## Wallpapers
+---
+## Wallpaper Gallery
 
 ### Lakeside
 
@@ -65,7 +71,7 @@ https://dribbble.com/shots/1816328-Lakeside-Sunrise
 
 #### **Code**: `A_Certain_Magical_Index`
 
-> This specific wallpaper is more than 500 MB in download size, so install only if you have that bandwidth available
+> This specific wallpaper is more than **500 MB** in download size, so install only if you have that bandwidth available
 
 ![A Certain Magical Index](https://user-images.githubusercontent.com/54291836/126893468-8ac4590e-ceea-40a2-a938-3e4db0f6ddf9.gif)
 
@@ -85,7 +91,6 @@ https://dynamicwallpaper.club/u/legend
 https://dynamicwallpaper.club/u/Juanra
 
 ---
-
 ### Minimal Mojave
 
 #### **Code**: `Minimal-Mojave`
@@ -176,6 +181,23 @@ https://dynamicwallpaper.club/u/jalbans17
 #### Credits
 
 https://dynamicwallpaper.club/u/MaxKulakov
+
+---
+### Catalina
+
+#### **Code**: `Catalina`
+![Catalina](https://user-images.githubusercontent.com/54291836/130307589-cfae49ee-8199-4da1-a505-4a3947ef0663.gif)
+
+#### Credits
+https://dynamicwallpaper.club/u/wallpapyrus
+
+---
+
+### Contributors
+
+<a href = "https://github.com/manishprivet/dynamic-gnome-wallpapers/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=manishprivet/dynamic-gnome-wallpapers"/>
+</a>
 
 ---
 ## Reach me out
