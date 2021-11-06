@@ -1,22 +1,24 @@
-
 <h1 align="center">Dynamic Gnome Wallpapers</h1>
 <h6 align="center">A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them</h6>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54291836/130308064-3b82d8c5-2ccf-4351-ae35-6b197daee3f1.gif">
 </p>
 
-
 ---
 
 ### Original Inspiration
+
 [b1izzard-34/Dynamic-gnome-wallpapers](https://github.com/b1izzard-34/Dynamic-gnome-wallpapers)
 
 ## Pre-requisites
+
 - Gnome shell installation
 - `unzip` and `curl` commands available
 
 ## Wallpaper format
+
 ### Every wallpaper zip contains :
+
 - JPEG/JPG files of the wallpaper.
 - XML file containing transition information of the wallpaper.
 - XML file that adds the wallpaper entry to the gnome backgrounds menu in the control center.
@@ -32,6 +34,7 @@ curl -s https://wallpapers.manishk.dev/install.sh | bash -s THEME_CODE
 #### Go to Gnome Settings > Backgrounds and set your wallpaper from there
 
 ### Uninstallation
+
 If you have installed a Wallpaper and want to uninstall it
 
 > Replace **THEME_CODE** with the code of the theme you want to uninstall
@@ -41,6 +44,7 @@ curl -s https://wallpapers.manishk.dev/uninstall.sh | bash -s THEME_CODE
 ```
 
 ### Global Installation (Optional)
+
 If you want to install a wallpaper for all users on your system, you can run the same command using sudo and by passing the `--global` flag
 
 ```bash
@@ -52,22 +56,24 @@ To uninstall a globally installed wallpaper
 ```bash
 curl -s https://wallpapers.manishk.dev/uninstall.sh | sudo bash -s THEME_CODE --global
 ```
+
 ---
+
 ## Wallpaper Gallery
 
-### Lakeside
+### A Certain Magical Index
 
-#### **Code**: `Lakeside`
+### Firewatch
 
-![Lakeside](https://user-images.githubusercontent.com/54291836/126888360-48c90397-49fb-44ed-af52-f793178e1f63.gif)
+#### **Code**: `Firewatch`
+
+![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
 
 #### Credits
 
-https://dribbble.com/shots/1816328-Lakeside-Sunrise
+https://dynamicwallpaper.club/u/Jagoba
 
 ---
-
-### A Certain Magical Index
 
 #### **Code**: `A_Certain_Magical_Index`
 
@@ -81,6 +87,42 @@ https://dynamicwallpaper.club/u/legend
 
 ---
 
+### Big Sur
+
+#### **Code**: `Big_Sur`
+
+![Big Sur](https://user-images.githubusercontent.com/54291836/127216821-83a15fe9-ebf3-4e8a-ae98-49dc9f4b792b.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/jalbans17
+
+---
+
+### Big Sur Beach
+
+#### **Code**: `Big_Sur_Beach`
+
+![Big_Sur_Beach](https://user-images.githubusercontent.com/54291836/126888350-d954464c-5838-40d6-a585-5c622f1e22c8.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/DavidPicnic
+
+---
+
+### Catalina
+
+#### **Code**: `Catalina`
+
+![Catalina](https://user-images.githubusercontent.com/54291836/130307589-cfae49ee-8199-4da1-a505-4a3947ef0663.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/wallpapyrus
+
+---
+
 ### Exodus
 
 #### **Code**: `Exodus`
@@ -88,9 +130,59 @@ https://dynamicwallpaper.club/u/legend
 ![Exodus](https://user-images.githubusercontent.com/54291836/126888357-3dfde85b-b371-4d41-9695-d569c1424a48.gif)
 
 #### Credits
+
 https://dynamicwallpaper.club/u/Juanra
 
 ---
+
+### Firewatch
+
+#### **Code**: `Firewatch`
+
+![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/Jagoba
+
+---
+
+### Fuji
+
+#### **Code**: `Fuji`
+
+![Fuji](https://user-images.githubusercontent.com/54291836/127258707-7895e748-ddc8-4e06-8767-df7609e834bd.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/MaxKulakov
+
+---
+
+### Lakeside
+
+#### **Code**: `Lakeside`
+
+![Lakeside](https://user-images.githubusercontent.com/54291836/126888360-48c90397-49fb-44ed-af52-f793178e1f63.gif)
+
+#### Credits
+
+https://dribbble.com/shots/1816328-Lakeside-Sunrise
+
+---
+
+### Lakeside 2
+
+#### **Code**: `Lakeside-2`
+
+![Lakeside-2](https://user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif)
+
+#### Credits
+
+https://dynamicwallpaper.club/u/vitaobr92
+
+---
+
 ### Minimal Mojave
 
 #### **Code**: `Minimal-Mojave`
@@ -98,6 +190,7 @@ https://dynamicwallpaper.club/u/Juanra
 ![Minimal-Mojave](https://user-images.githubusercontent.com/54291836/126888359-de35b414-cc69-494b-8065-487de5f22924.gif)
 
 #### Credits
+
 https://dynamicwallpaper.club/u/octaviotti
 
 ---
@@ -126,73 +219,6 @@ https://dynamicwallpaper.club/u/WeighingDog
 
 ---
 
-### Big Sur Beach
-
-#### **Code**: `Big_Sur_Beach`
-
-![Big_Sur_Beach](https://user-images.githubusercontent.com/54291836/126888350-d954464c-5838-40d6-a585-5c622f1e22c8.gif)
-
-#### Credits
-
-https://dynamicwallpaper.club/u/DavidPicnic
-
----
-
-### Firewatch
-#### **Code**: `Firewatch`
-
-![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
-
-#### Credits
-
-https://dynamicwallpaper.club/u/Jagoba
-
----
-
-### Lakeside 2
-
-#### **Code**: `Lakeside-2`
-
-![Lakeside-2](https://user-images.githubusercontent.com/54291836/126888345-10183721-0984-40c3-82bf-20c147897c6c.gif)
-
-#### Credits
-https://dynamicwallpaper.club/u/vitaobr92
-
----
-
-### Big Sur
-
-#### **Code**: `Big_Sur`
-
-![Big Sur](https://user-images.githubusercontent.com/54291836/127216821-83a15fe9-ebf3-4e8a-ae98-49dc9f4b792b.gif)
-
-#### Credits
-
-https://dynamicwallpaper.club/u/jalbans17
-
----
-
-### Fuji
-
-#### **Code**: `Fuji`
-
-![Fuji](https://user-images.githubusercontent.com/54291836/127258707-7895e748-ddc8-4e06-8767-df7609e834bd.gif)
-
-#### Credits
-
-https://dynamicwallpaper.club/u/MaxKulakov
-
----
-### Catalina
-
-#### **Code**: `Catalina`
-![Catalina](https://user-images.githubusercontent.com/54291836/130307589-cfae49ee-8199-4da1-a505-4a3947ef0663.gif)
-
-#### Credits
-https://dynamicwallpaper.club/u/wallpapyrus
-
----
-
 ### Contributors
 
 <a href = "https://github.com/manishprivet/dynamic-gnome-wallpapers/graphs/contributors">
@@ -200,6 +226,7 @@ https://dynamicwallpaper.club/u/wallpapyrus
 </a>
 
 ---
+
 ## Reach me out
 
-<a href="https://manishk.dev" target="blank">Website</a> |  <a href="https://twitter.com/manishprivet" target="blank">Twitter</a> |  <a href="https://linkedin.com/in/manishprivet" target="blank">Linkedin</a> |  <a href="https://stackoverflow.com/users/manishprivet" target="blank">Stackoverflow</a> |  <a href="https://fb.com/manishprivet" target="blank">Facebook</a> |  <a href="https://instagram.com/manishprivet" target="blank">Instagram</a> |  <a href="https://medium.com/@manishprivet" target="blank">Medium</a>
+<a href="https://manishk.dev" target="blank">Website</a> | <a href="https://twitter.com/manishprivet" target="blank">Twitter</a> | <a href="https://linkedin.com/in/manishprivet" target="blank">Linkedin</a> | <a href="https://stackoverflow.com/users/manishprivet" target="blank">Stackoverflow</a> | <a href="https://fb.com/manishprivet" target="blank">Facebook</a> | <a href="https://instagram.com/manishprivet" target="blank">Instagram</a> | <a href="https://medium.com/@manishprivet" target="blank">Medium</a>
