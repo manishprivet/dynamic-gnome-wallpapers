@@ -63,18 +63,6 @@ curl -s https://wallpapers.manishk.dev/uninstall.sh | sudo bash -s THEME_CODE --
 
 ### A Certain Magical Index
 
-### Firewatch
-
-#### **Code**: `Firewatch`
-
-![Firewatch](https://user-images.githubusercontent.com/54291836/126888351-023dbd48-7a49-442b-b909-91f995ed749e.gif)
-
-#### Credits
-
-https://dynamicwallpaper.club/u/Jagoba
-
----
-
 #### **Code**: `A_Certain_Magical_Index`
 
 > This specific wallpaper is more than **500 MB** in download size, so install only if you have that bandwidth available
