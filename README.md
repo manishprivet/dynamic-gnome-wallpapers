@@ -1,3 +1,12 @@
+> [!WARNING]
+> This repository is currently unmaintained due to lack of free time. Apologies for this.
+> There are some major tasks pending for this repository for which I would love some support.
+
+- [ ] Migrating away to a more stable CDN - Right now I am using free version of Oracle Cloud, which is not exactly reliable. I am aiming to move the files to somewhere stable like Amazon S3 or GCS.
+- [ ] Supporting GNOME 40 and above - I have not tested the files on Distros with GNOME 40 and above.
+- [ ] Adding more wallpapers.
+
+---
 
 <h1 align="center">Dynamic Gnome Wallpapers</h1>
 <h6 align="center">A collection of awesome dynamic wallpapers for Gnome, and easy scripts to install them</h6>
